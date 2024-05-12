@@ -3,7 +3,7 @@ layout: about
 title: Home
 permalink: /
 # subtitle: <strong> PhD Candidate at <a href="https://cse.osu.edu/">OSU CSE</a> &nbsp; • &nbsp; <strong>:email:</strong> jin (dot) 967 (at) osu (dot) edu </strong>
-subtitle: <strong> Research Scientist at Meta GenAI, Ph.D.</strong>
+subtitle: <strong> Research Scientist at Meta, Ph.D.</strong>
 
 profile:
   align: right
