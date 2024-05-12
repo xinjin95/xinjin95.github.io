@@ -70,8 +70,9 @@
       items: 
         - The special event of AI Foundation Models and Software Engineering (FORGE), 2024
         - International Conference on Information Security Practice and Experience (ISPEC), 2023
-        - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA, Artifact Evaluation, 2023       
+        - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Artifact Evaluation, 2023       
     - title: Reviewer
+      items:
         - ACM Transactions on Privacy and Security (TOPS), 2023
         - IEEE Transactions on Information Forensics and Security (TIFS), 2023
         - IEEE Transactions on Dependable and Secure Computing (TDSC), 2022, 2023
