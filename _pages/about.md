@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- Hi! :wave: I'm a PhD candidate from Department of [Computer Science and Engineering](https://cse.osu.edu/) at The Ohio State University, advised by [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/). I'm also a member of [OSU SecLab](https://cse.engineering.osu.edu/computer-security-laboratory) and [NSF AI Edge Institute](https://aiedge.osu.edu/). -->
 
-Hi! :wave: I'm a Research Scientist at [Meta GenAI](https://ai.meta.com/meta-ai/), where I build coding copilots. I obtained my Ph.D. degree from [Department of Computer Science and Engineering](https://cse.osu.edu/) at [The Ohio State University](https://cse.osu.edu/) in 2024, advised by Prof. [Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/). 
+Hi! :wave: I'm a research scientist recently joining [Meta GenAI](https://ai.meta.com/meta-ai/), where I build coding copilots. I obtained my Ph.D. degree from [Department of Computer Science and Engineering](https://cse.osu.edu/) at [The Ohio State University](https://cse.osu.edu/) in 2024, advised by Prof. [Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/). 
 I was a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/) and [Cisco Research](https://research.cisco.com/) during summer 2023 and summer 2022.
 
 <!-- I was also a member of [OSU SecLab](https://cse.engineering.osu.edu/computer-security-laboratory) and [NSF AI Edge Institute](https://aiedge.osu.edu/). -->
