@@ -11,7 +11,7 @@ nav_order: 1
 <div class="publications">
 
 <p>
-    <mark>Summary: five first-author papers published in top-tier security (ACM CCS’2022 * 2 and NDSS’2025 * 2) and software engineering  (ACM FSE’2024) conferences.</mark>
+    <mark>Summary: 6 first-author papers published in top-tier security (ACM CCS’2022 * 2, NDSS’2025 * 2, ACM CCS'2025) and software engineering  (ACM FSE’2024) conferences.</mark>
 </p>
 
 

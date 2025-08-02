@@ -11,7 +11,7 @@
 - title: Work
   type: time_table
   contents:
-    - title: Llama Research team, GenAI, Meta. May 2024 - Present
+    - title: Llama Research team, Superintelligence Labs, Meta. May 2024 - Present
       institution: Bellevue, WA.
       year: 2023
     - title: Microsoft Research, Summer 2023
@@ -104,6 +104,7 @@
   type: nested_list
   contents:
     - items: 
+        - Repurposing Neural Networks for Efficient Cryptographic Computation, Network and Distributed System Security (NDSS) Symposium, 2025.
         - Can Large Language Models Help Us Reverse Engineer Binary Code Semantics?, Microsoft Research, 2023.
         - LLM for Security - From Language Model to ChatGPT, The Ohio State University (OSU), 2023.
         - Predicting Function Names in Stripped Binaries via Context-Sensitive Execution-Aware Code Embeddings, ACM CCS, 2022.
