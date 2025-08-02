@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! :wave: I'm a research scientist with Llama Research team, [Meta Superintelligence Labs](https://www.meta.com/superintelligence/?srsltid=AfmBOooWO9etoW5LM_C-5uL943hX7ayvv2ymQzUMaf_aZ45d6Laj9r4q). I build the next-generation [Llama](https://www.llama.com/) models by advancing their reasoning and coding capabilities.
+Hi! :wave: I'm a research scientist with Llama Research team, [Meta Superintelligence Labs](https://www.meta.com/superintelligence/?srsltid=AfmBOooWO9etoW5LM_C-5uL943hX7ayvv2ymQzUMaf_aZ45d6Laj9r4q). I build next-generation [Llama](https://www.llama.com/) models by advancing their reasoning and coding capabilities.
 
 I obtained my Ph.D. degree from [Department of Computer Science and Engineering](https://cse.osu.edu/) at [The Ohio State University](https://cse.osu.edu/) in 2024, advised by Prof. [Zhiqiang Lin](https://zhiqlin.github.io/). My research interests broadly lie in large language models (LLMs), coding generation, program/binary analysis, and security. 
 
